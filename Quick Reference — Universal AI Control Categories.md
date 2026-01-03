@@ -330,6 +330,5 @@ The best time to add them is before you need them. The second-best time is today
 ## References
 
 - [Production-Grade AI Systems](https://pdfhost.io/v/G6UzXJZX8H_Production-Grade_AI_Systems)
-- [KPMG AI Control Guidance](https://www.kpmg.com)
-- [NIST AI Risk Framework](https://www.nist.gov)
+- [NIST AI Risk Framework](https://www.nist.gov/artificial-intelligence)
 - [Microsoft Trusted AI](https://www.microsoft.com/en-us/ai/responsible-ai)
